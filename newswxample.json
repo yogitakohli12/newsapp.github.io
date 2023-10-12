@@ -1,0 +1,57 @@
+{
+   "status": "ok",
+   "totalResults": 4,
+   "articles": [
+    
+    {
+    "source": {"id": null,"name": "Cryptonews.net"},
+    "author": null,
+    "title": "Bitcoin correlation with stocks at 5-year low as regulatory crackdown takes toll",
+    "description": "Key TakeawaysOur Head of Research, Dan Ashmore, digs into Bitcoin’s relationship with stocks Correlation between Bitcoin and the Nasdaq is at its lowest point since 2018 The Nasdaq",
+    "url": "https://cryptonews.net/news/bitcoin/21159021/",
+    "urlToImage": "https://cnews24.ru/uploads/226/22666dd38f72e7cc6cc6b7b321e73579d5366908.jpg",
+    "publishedAt": "2023-06-15T21:18:56Z",
+    "content": "Key Takeaways Our Head of Research, Dan Ashmore, digs into Bitcoins relationship with stocks </li><li>Correlation between Bitcoin and the Nasdaq is at its lowest point since 2018 </li>Th… [+5495 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+        },
+    "author": "Leo Becker",
+    "title": "In-App-Trinkgelder per Bitcoin: Apple pocht auf Provision",
+    "description": "Eine dezentrale Twitter-Alternative erlaubt es, Nutzern Bitcoin-Trinkgeld zu schicken. Apple will, wie generell beim Verkauf digitaler Inhalte, mitverdienen.",
+    "url": "https://www.heise.de/news/In-App-Trinkgelder-per-Bitcoin-Apple-pocht-auf-Provision-9200703.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/2/6/2/7/9/5/Bildschirmfoto_2023-06-27_um_17.29.39-bb09c4b0379b54a6.png",
+    "publishedAt": "2023-06-27T15:40:00Z",
+    "content": "Neuer Streit um In-App-Käufe: Apple geht offenbar gegen eine Trinkgeld-Funktion in einer App vor, die dafür nicht auf die vorgeschriebene In-App-Kaufschnittstelle des Plattformbetreibers setzt. Man m… [+2409 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Github.com"
+        },
+    "author": "bitcoin",
+    "title": "Microsoft uses Bitcoin as part of MSVC val id ation test suite",
+    "description": "Giving the C++ Standard Committee control of the public interface of your type means they will break it. C++23 adds a new allocate_at_least member to std::allocator. Very bad things happen when, sa...",
+    "url": "https://github.com/bitcoin/bitcoin/pull/27930",
+    "urlToImage": "https://opengraph.githubassets.com/13a583c23bb89d4c3b5d165504273d69b558977d05917c6f95d6ac2e62571bfa/bitcoin/bitcoin/pull/27930",
+    "publishedAt": "2023-06-22T17:55:39Z",
+    "content": "Thanks for the PR and raising the issue!I suspect that it'll be a long time before binaries using C++23 would be shipped but this brings up a wider issue: like you say giving the C++ Standard Comm… [+490 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MarketWatch"
+        },
+    "author": "Frances Yue",
+    "title": "Crypto: Bitcoin to reach $50,000 by year-end, but top $100,000 by end of 2024, says Standard Chartered strategist",
+    "description": "Bitcoin’s price is likely to reach $50,000 by the end of this year and has upside above $100,000 by the end of 2024, according to Geoff Kendrick, head of crypto research at Standard Chartered Bank.",
+    "url": "https://www.marketwatch.com/story/bitcoin-to-reach-50-000-by-year-end-but-top-100-000-by-end-of-2024-says-standard-chartered-strategist-78ce59d9",
+    "urlToImage": "https://images.mktw.net/im-776988/social",
+    "publishedAt": "2023-07-10T19:56:00Z",
+    "content": "Bitcoins price is likely to reach $50,000 by the end of this year and has upside above $100,000 by the end of 2024, according to Geoff Kendrick, head of crypto research at Standard Chartered Bank. … [+1515 chars]"
+    }
+    
+   ]
+}
